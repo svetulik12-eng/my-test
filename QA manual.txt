@@ -1,4 +1,0 @@
-QA manual 19.02.2026
-second commit
-my changes from github
-hello, world!
