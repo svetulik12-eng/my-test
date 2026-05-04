@@ -1,0 +1,36 @@
+body {
+    background: rgb(202, 230, 244);
+    margin: 10px;;
+    font: 400 18px/28px Inter, sans-serif;
+    color: #121215;
+}
+.link{
+    color: #03033b;
+    text-decoration:none;
+}
+.title{
+    color: #03033b;
+    font-size: 48px;
+    line-height: 70px;
+    font-weight: 700;
+    margin: 0 0px; 
+}
+.table{
+    margin: 10px 10px;
+}
+.list{
+    list-style: circle;
+    padding: 10px;
+    margin: 20px;
+    font-size: 18px;
+}
+.button{
+    background: #504DEE;
+    color: #FBFBFC;
+    border: none;
+    padding: 16px 37px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+    margin: 0 0 110px;
+}
